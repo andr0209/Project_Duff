@@ -1,0 +1,79 @@
+*{
+    
+    font-family:Inknut Antiqua;
+    
+}
+
+/* the following allows for placeholder text control*/
+::-webkit-input-placeholder {
+ font-size: 8px;
+ color: #000000;
+ text-align: left;
+ 
+}
+
+
+
+.wrapper{
+    
+    margin-top:10px;
+    width:60%;
+    margin:auto;
+}
+
+h3{
+    margin-top:10px;
+    text-align:center;
+    font-size:0.75em;
+    font-style: italic;
+}
+
+p{
+    
+    padding:3px;
+    font-size:.75em;
+}
+
+label{
+    display:flex;
+    text-align: center;
+    
+}
+
+input{
+    
+    width:75%;
+    
+}
+
+.form-group{
+    
+    margin-left:15px;
+}
+
+#submission{
+    
+    /*margin-left:15px;*/
+    margin-top:5px;
+
+}
+#message{
+    width:75%;
+    
+}
+
+.Footer{
+    margin:auto;
+    width:85%;
+    
+}
+
+#textfield{
+    
+    margin-left:12.5%;
+}
+
+.row{
+    width:90%;
+    margin-left:5%;
+}

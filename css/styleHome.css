@@ -1,0 +1,17 @@
+*{
+    
+    font-family:Inknut Antiqua;
+    
+}
+
+/* trying to horizontally align the ul element inside the nav*/
+#nav_links{
+    
+    margin-left:200px;
+}
+
+
+.row{
+    
+    margin-top:75px;
+}
